@@ -2,3 +2,4 @@ Hello World!
 Let's start version control
 This is from GitTest2 folder
 Added some feature
+This is project2
